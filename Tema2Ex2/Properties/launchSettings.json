@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Tema2Ex2": {
+      "commandName": "Project",
+      "commandLineArgs": "Aceasta Este un test"
+    }
+  }
+}
